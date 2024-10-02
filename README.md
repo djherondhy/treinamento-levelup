@@ -1,6 +1,6 @@
 # Treinamento LevelUp - Talent Lab Bemol
 
-Este repositório contém a documentação e os projetos desenvolvidos durante o treinamento LevelUp da Alura no Talent Lab Bemol. Os tópicos abordados estão organizados por semanas.
+Este repositório contém a documentação e os projetos desenvolvidos durante o treinamento LevelUp da Alura no Talent Lab Bemol.
 
 ## Semanas
 
