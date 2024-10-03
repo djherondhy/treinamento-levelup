@@ -58,3 +58,8 @@ Este repositório contém a documentação e os projetos desenvolvidos durante o
 - **Repositório:** [blibliosharp-api](https://github.com/djherondhy/bibliosharp-api)
   - Descrição: Implementação de controle de usuário utilizando .NET 6 e Identity.
   - Tecnologias: .NET 6.
+
+### Semana 12 - Swagger: Documentando suas APIs 📜
+- **Repositório:** [comex-api](https://github.com/djherondhy/comex-api/tree/documentacao-swagger)
+  - Descrição: Implementação de documentação para APIs utilizando Swagger.
+  - Tecnologias: .NET 6, Swagger.
