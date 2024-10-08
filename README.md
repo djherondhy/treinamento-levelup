@@ -20,9 +20,9 @@ Este repositório contém a documentação e os projetos desenvolvidos durante o
   - Tecnologias: C#.
 
 ### Semana 4 - C#: Consumindo API, Gravando Arquivos e Utilizando o LINQ 🌐
-- **Repositório:** [level-up-csharp](https://github.com/djherondhy/level-up-csharp/tree/semana-4)
+- **Repositório:** [microservices]([https://github.com/djherondhy/level-up-csharp/tree/semana-4](https://github.com/djherondhy/treinamento-levelup/tree/semana-13-microservices))
   - Descrição: Aprendizado sobre consumo de APIs, manipulação de arquivos e uso do LINQ.
-  - Tecnologias: C#.
+  
 
 ### Semana 5 - C#: Trabalhando com Arrays e Coleções 📊
 - **Repositório:** [level-up-csharp](https://github.com/djherondhy/level-up-csharp/tree/semana-5)
@@ -63,3 +63,9 @@ Este repositório contém a documentação e os projetos desenvolvidos durante o
 - **Repositório:** [comex-api](https://github.com/djherondhy/comex-api/tree/documentacao-swagger)
   - Descrição: Implementação de documentação para APIs utilizando Swagger.
   - Tecnologias: .NET 6, Swagger.
+
+### Semana 13 - Microserviços📜
+- **Repositório:** [microservices](https://github.com/djherondhy/treinamento-levelup/tree/semana-13-microservices)
+  - Descrição: Conceitos e Aplicações de Microserviços
+  - Tecnologias: .NET 6, Swagger.
+
