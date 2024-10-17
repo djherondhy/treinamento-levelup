@@ -70,7 +70,7 @@ Este repositório contém a documentação e os projetos desenvolvidos durante o
   - Tecnologias: .NET 6, Swagger.
     
 ### Semana 15 - Dart: criando e manipulando variáveis e listas 📋✨
-- **Repositório:** [microservices](https://github.com/djherondhy/dart-quest)
+- **Repositório:** [dart-quest](https://github.com/djherondhy/dart-quest)
   - Descrição: Conceitos Iniciais de Dart, Criação de Variáveis e Lista
   - Tecnologias: Dart.
 
