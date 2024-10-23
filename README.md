@@ -74,3 +74,8 @@ Este repositório contém a documentação e os projetos desenvolvidos durante o
   - Descrição: Conceitos Iniciais de Dart, Criação de Variáveis e Lista
   - Tecnologias: Dart.
 
+### Semana 16 - Dart: entendendo a Orientação a Objetos 📋✨
+- **Repositório:** [dart-quest](https://github.com/djherondhy/dart-quest/tree/oo)
+  - Descrição: Classes, Herança, Classes Abstrastas/Interface, Construtores e Polimorfismo
+  - Tecnologias: Dart.
+
