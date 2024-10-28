@@ -78,4 +78,10 @@ Este repositório contém a documentação e os projetos desenvolvidos durante o
 - **Repositório:** [dart-quest](https://github.com/djherondhy/dart-quest/tree/oo)
   - Descrição: Classes, Herança, Classes Abstrastas/Interface, Construtores e Polimorfismo
   - Tecnologias: Dart.
+    
+### Semana 17 - Dart: sintaxe, coleções e dinamismo 📋✨
+- **Repositório:** [dart-quest](https://github.com/djherondhy/dart-quest/tree/semana-17)
+  - Descrição: Coleções Map, Enums, Iterables, Diferença de Var e Dynamic.
+  - Tecnologias: Dart.
+
 
