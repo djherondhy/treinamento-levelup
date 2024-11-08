@@ -84,4 +84,9 @@ Este repositório contém a documentação e os projetos desenvolvidos durante o
   - Descrição: Coleções Map, Enums, Iterables, Diferença de Var e Dynamic.
   - Tecnologias: Dart.
 
+### Semana 18 - Dart: lidando com Exceptions e Null Safety 📋✨
+- **Repositório:** [dart-quest](https://github.com/djherondhy/dart-quest/tree/semana-18)
+  - Descrição: Aprenda a capturar e lidar com Exceções.
+  - Tecnologias: Dart.
+
 
