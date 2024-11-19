@@ -89,4 +89,7 @@ Este repositório contém a documentação e os projetos desenvolvidos durante o
   - Descrição: Aprenda a capturar e lidar com Exceções.
   - Tecnologias: Dart.
 
-
+### Semana 19 e 20 - Flutter: Widgets, Stateless, Stateful, Imagens e Animações 🧩
+- **Repositório:** [dart-quest](https://github.com/djherondhy/flutter-quest)
+  - Descrição: Fundamentos Inicias do Flutter, Criando Primeiros Widgets, Animações e Inserção de Imagens.
+  - Tecnologias: Dart, Flutter.
