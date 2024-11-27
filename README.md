@@ -93,3 +93,8 @@ Este repositório contém a documentação e os projetos desenvolvidos durante o
 - **Repositório:** [flutter-quest](https://github.com/djherondhy/flutter_quest)
   - Descrição: Fundamentos Inicias do Flutter, Criando Primeiros Widgets, Animações e Inserção de Imagens.
   - Tecnologias: Dart, Flutter.
+
+### Semana 21 - Flutter: Controller, navegação e estados🧩
+- **Repositório:** [flutter-quest](https://github.com/djherondhy/flutter_quest)
+  - Descrição: Entendendo Navegação, Context e Estados
+  - Tecnologias: Dart, Flutter.
