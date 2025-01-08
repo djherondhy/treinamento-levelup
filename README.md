@@ -98,3 +98,8 @@ Este repositório contém a documentação e os projetos desenvolvidos durante o
 - **Repositório:** [flutter-quest](https://github.com/djherondhy/flutter_quest)
   - Descrição: Entendendo Navegação, Context e Estados
   - Tecnologias: Dart, Flutter.
+  - 
+ ### Semana 22 - Flutter: aplicando persistência de dados
+- **Repositório:** [flutter-quest](https://github.com/djherondhy/flutter_quest)
+  - Descrição:  Persistência interna, Banco de dados móvel,CRUD (Create, Read, Update, Delete)
+  - Tecnologias: Dart, Flutter.
