@@ -103,3 +103,8 @@ Este repositório contém a documentação e os projetos desenvolvidos durante o
 - **Repositório:** [flutter-quest](https://github.com/djherondhy/flutter_quest)
   - Descrição:  Persistência interna, Banco de dados móvel,CRUD (Create, Read, Update, Delete)
   - Tecnologias: Dart, Flutter.
+    
+### Semana 23 - Flutter com WebAPI: integrando sua aplicação
+- **Repositório:** [flutter-quest](https://github.com/djherondhy/flutter_quest/tree/consumindo_api)
+  - Descrição: Utilizar uma biblioteca HTTP para fazer requisições, CRUD consumindo API JsonServer
+  - Tecnologias: Dart, Flutter, JsonServer.
