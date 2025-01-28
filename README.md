@@ -108,3 +108,8 @@ Este repositório contém a documentação e os projetos desenvolvidos durante o
 - **Repositório:** [flutter-quest](https://github.com/djherondhy/flutter_quest/tree/consumindo_api)
   - Descrição: Utilizar uma biblioteca HTTP para fazer requisições, CRUD consumindo API JsonServer
   - Tecnologias: Dart, Flutter, JsonServer.
+    
+### Semana 24 - Flutter com Web API: evoluindo na integração da aplicação
+- **Repositório:** [flutter-quest](https://github.com/djherondhy/flutter_quest/tree/consumindo_api)
+  - Descrição: Utilizar uma biblioteca HTTP para fazer requisições, CRUD consumindo API JsonServer, Autenticação e Autorização e Controle de Usuário.
+  - Tecnologias: Dart, Flutter, Django.
